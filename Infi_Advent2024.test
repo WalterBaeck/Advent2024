@@ -1,0 +1,9 @@
+push 999
+push X
+push -3
+add
+jmpos 2
+ret
+ret
+push 123
+ret
